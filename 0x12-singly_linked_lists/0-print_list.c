@@ -1,6 +1,6 @@
 /*
  * File: 0-print_list.c
- * Author: Ukonu, Divine Chisom
+ * 
  */
 
 #include "lists.h"
